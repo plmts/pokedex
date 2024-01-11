@@ -1,5 +1,5 @@
 <h1>Pokédex</h1>
-<p>Pokédex se trata de uma listagem de Pokémons. Até onde eu tenha visto, este é um projeto tradicional feito por pessoas que querem atestar seus conhecimentos com o uso das tecnologias de Desenvolvimento Web.</p>
+<p>Pokédex se trata de uma listagem de Pokémons. Até onde eu tenha visto, este é um projeto tradicional feito por pessoas que querem atestar seus conhecimentos com o uso das tecnologias de Desenvolvimento Web. A ideia é criar um sistema responsivo onde o layout funcione tanto em ambientes mobile, como desktop, tablets, etc..</p>
 
 <h1>🛠️ Construído com</h1>
 <ul>
